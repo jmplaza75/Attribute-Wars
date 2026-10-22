@@ -1,0 +1,46 @@
+ATTRIBUTE WARS 1.0 - CONTROLS
+A ZX SPECTRUM 48K GAME
+CREATED BY JOSE MANUEL PLAZA
+
+TITLE SCREEN
+------------
+SPACE   Start a new game
+I       Show instructions
+C       Show credits
+
+MENU SCREENS
+------------
+SPACE   Return to the title screen
+
+IN GAME
+-------
+Q       Move up
+A       Move down
+O       Move left
+P       Move right
+SPACE   Paint the current tile
+
+The first press paints; release SPACE before painting again. The cursor can
+move while SPACE is held, but painting uses a new key press.
+
+GAME OVER
+---------
+SPACE   Return to the title screen. Release the key and press it again to
+        start a new game.
+
+TIPS
+----
+- Paint enough tiles to reach the level objective.
+- Green tiles are active barriers. They block the enemy for 400 frames.
+- Cyan tiles are expired barriers and can be crossed.
+- White tiles are permanent walls.
+- You can hold up to 5 paint charges.
+- Charges recharge every 100 frames while the game is running.
+- The hunter follows the shortest route. Keep moving and use corridors.
+- The patrol follows fixed routes and pursues you when you are close.
+- The destroyer breaks temporary barriers that block its path.
+- Complete levels to earn bonus points and reach the next scenario.
+
+PAUSE
+-----
+There is no pause key in this release.
