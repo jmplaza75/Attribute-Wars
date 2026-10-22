@@ -81,9 +81,3 @@ this package. From the directory containing the files:
 On macOS:
 
   shasum -a 256 -c SHA256SUMS.txt
-
-VALIDATION STATUS
------------------
-This is Release Candidate 1. Gameplay is the same as version 0.12. Automated
-tests, snapshot format checks and package checks are complete. Final visual
-validation in Fuse remains pending before the accepted 1.0.0 release.
